@@ -60,6 +60,9 @@ Spiceworks · Active Directory · Microsoft 365 · Ticket Management
 ### Networking & Security
 TCP/IP · DNS · DHCP · Nmap · Wireshark · Greenbone · Burp Suite
 
+### Coding
+Python
+
 ### Documentation
 GitHub · Markdown · Technical Reports · Incident Documentation
 
