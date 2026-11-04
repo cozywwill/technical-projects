@@ -43,7 +43,7 @@ Each project includes technical documentation, tools used, practical activities,
 | Vulnerability Assessment | Greenbone, Nmap | Vulnerability identification and risk assessment |
 | Web Application Security | Burp Suite | Testing common web application vulnerabilities in authorised labs |
 | Network Traffic Analysis | Wireshark | Packet analysis and investigation of network activity |
-| [Hashing Identifier](https://github.com/cozywwill/hash-identifier) | A Python tool that identifies potential hash algorithms by length and format |
+| [Hashing Identifier](https://github.com/cozywwill/hash-identifier) | Python | A Python-based Hash Identifier that validates hexadecimal inputs and identifies potential hashing algorithms based on hash length |
 
 *Individual project documentation will be added as projects are completed.*
 
