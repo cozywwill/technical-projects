@@ -5,7 +5,7 @@
 
 Welcome to my technical portfolio!
 
-I'm an aspiring IT professional currently studying a Diploma of Cybersecurity at Victoria University, with an interest in IT Support, system administration, networking, and cybersecurity.
+I'm an aspiring Cybersecurity professional transitioning from a background in Graphic Design, with a strong interest in cloud security, networking, and security operations.
 
 This portfolio showcases practical labs, technical projects, and independent learning focused on developing hands-on IT skills.
 
