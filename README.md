@@ -10,4 +10,4 @@ Practical labs focused on IT support operations, ticket management, user adminis
 
 Hands-on cybersecurity projects covering network reconnaissance, vulnerability assessment, penetration testing, and network traffic analysis.
 
-🔗 **Repository:** [Cybersecurity Labs](https://github.com/cozywwill/Cybersecurity-Labs)
+🔗 **Repository:** [Cybersecurity Labs](https://github.com/cozywwill/cybersecurity-projects)
