@@ -1,7 +1,7 @@
 
 # 👋 Technical Projects Portfolio
 
-### IT Support | System Administration | Cybersecurity
+### Cybersecurity | IT Support | System Administration 
 
 Welcome to my technical portfolio!
 
