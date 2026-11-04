@@ -82,7 +82,7 @@ My goal is to continue building practical technical skills and pursue opportunit
 
 **GitHub:** [cozywwill](https://github.com/cozywwill)
 
-**LinkedIn:** [linkedin.com/in/wlsonlie]
+**LinkedIn:** [linkedin](https://www.linkedin.com/in/wlsonlie/)
 
 ---
 
